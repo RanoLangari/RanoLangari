@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yosep Firano La Ngari</h1>
 <h3 align="center">students from Nusa Cendana University</h3>
+</br>
 
 - 🌱 I’m currently learning **Frameworks, Node JS, React, ETC**
 
