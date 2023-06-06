@@ -4,9 +4,6 @@
 
 # 💫About Me :
 🌱 I’m currently learning Frameworks, Node JS, React, ETC
-
-👨‍💻 All of my projects are available at https://github.com/RanoLangari/
-
 📫 How to reach me langarirano@gmail.com
 
 ## 🌐Socials
