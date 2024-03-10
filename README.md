@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="[https://i.imgflip.com/65efzo.gif](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)"  />
+<img align="right" height="200" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"  />
 
 ###
 
