@@ -1,4 +1,4 @@
-<p align="left">Hi there! i'm Yosep Firano La Ngari. I am a Computer Science student who's constantly learning new things. Experienced in web development, Cryptocurrency and cloud computing, I'm able to grasp new concepts quickly.</p>
+<p align="left">Hi there! i'm Yosep Firano La Ngari. I am a Computer Science student who's constantly learning new things. Experienced in web development, Machine Learning and cloud computing, I'm able to grasp new concepts quickly.</p>
 
 ###
 
