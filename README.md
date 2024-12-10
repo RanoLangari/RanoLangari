@@ -1,4 +1,4 @@
-<p align="left">Hi there! i'm Yosep Firano La Ngari. I am a Computer Science student who's constantly learning new things. Experienced in web development, Machine Learning and cloud computing, I'm able to grasp new concepts quickly.</p>
+<p align="left">Hi there! i'm Yosep Firano La Ngari, a dynamic and dedicated Computer Science student with a passion for continual learning. Proficient in web development and adept at navigating the complexities of cloud computing, particularly with the Google Cloud Platform. Certified as an Associate Cloud Engineer on Google Cloud and Alibaba Cloud. Known for quickly mastering new concepts and technologies. Experienced in PHP and Node.JS, with a strong foundation in web development principles, Machine Learning, & Deep Learning.</p>
 
 ###
 
