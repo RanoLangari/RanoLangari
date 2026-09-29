@@ -1,10 +1,48 @@
-<p align="left">Hi there! i'm Yosep Firano La Ngari, a dynamic and dedicated Computer Science student with a passion for continual learning. Proficient in web development and adept at navigating the complexities of cloud computing, particularly with the Google Cloud Platform. Certified as an Associate Cloud Engineer on Google Cloud and Alibaba Cloud. Known for quickly mastering new concepts and technologies. Experienced in PHP and Node.JS, with a strong foundation in web development principles, Machine Learning, & Deep Learning.</p>
+<h1 align="left">Hi there, I'm Yosep Firano La Ngari 👋</h1>
 
-###
+<p align="left">
+Programmer and Information System Developer based in <b>Kupang, East Nusa Tenggara (NTT), Indonesia</b>, with a passion for continual learning. I build and maintain government-scale digital systems for NTT Province under the <b>SKALA</b> program (<i>Sinergi dan Kolaborasi untuk Akselerasi Layanan Dasar</i>) with DT Global Asia Pacific. I'm certified as an <b>Associate Cloud Engineer</b> on Google Cloud and Alibaba Cloud, and I pick up new concepts and technologies quickly.
+</p>
 
+## 🚀 What I'm working on
 
+- **[SASANDO](https://sasando.nttprov.go.id)**: the Satu Data portal for NTT Province, used by 40+ regional agencies (OPD). I developed it from v1.0 through v2.0, with integrations across SDI/DCAT, SPLP/JSTAR, PELITA, and DTSEN.
+- **[Executive Dashboard](https://dashboard.nttprov.go.id)**: a data dashboard that gives NTT Province leadership a consolidated view of key indicators.
+- **Village Information Systems (SID), DTSEN data integration, and SPBE compliance**: supporting data integration and e-government standards across the province.
 
-###
+## 🛠️ Tech stack
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Apache ECharts](https://img.shields.io/badge/Apache_ECharts-AA344D?style=for-the-badge&logo=apacheecharts&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+
+**Currently working with:** Laravel 11/12 · React 19 · Inertia v2 · TypeScript · PostgreSQL · ECharts · shadcn/ui · DigitalOcean
+
+**Also experienced in:** Machine Learning · Deep Learning · Cloud Computing
+
+## 🏅 Certifications
+
+- Google Cloud Associate Cloud Engineer
+- Alibaba Cloud Associate Cloud Engineer
+
+## 🎓 Beyond code
+
+I enjoy sharing what I learn, including facilitating technical training sessions such as Google Cloud workshops, and I'm interested in teaching Informatics.
+
+## 📫 Let's connect
+
+- 📧 Email: [langarirano@gmail.com](mailto:langarirano@gmail.com)
+- 💼 LinkedIn: [Yosep Firano La Ngari](https://www.linkedin.com/in/ranolangari/)
 
 <br clear="both">
 
